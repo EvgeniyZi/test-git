@@ -18,14 +18,18 @@ function multiply(a, b){
   a * b
 }
 ```
+
 ____
+
 код с двумя обратными апострафами
 ``
 function multiply(a, b){
   a * b
 }
 ``
+
 ____
+
 код с четфрьмя пробелами
     
     function multiply(a, b){
