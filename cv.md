@@ -21,7 +21,7 @@ function multiply(a, b){
 
 ____
 
-код с двумя обратными апострафами
+код с двумя обратными апострафами  
 ``
 function multiply(a, b){
   a * b
@@ -30,7 +30,17 @@ function multiply(a, b){
 
 ____
 
-код с четфрьмя пробелами
+код с двумя обратными апострафами
+
+``
+function multiply(a, b){
+  a * b
+}
+``
+
+____
+
+код с четырьмя пробелами
     
     function multiply(a, b){
   a * b
