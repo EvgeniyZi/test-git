@@ -1,61 +1,44 @@
 # Евгений Зимагоров
 
 ## Контакты
-![](telegram-64x64.png "telegram") **@EvGeniusZi**  
+Telegramz: @EvGeniusZi  
 Email: zimagorov.evgeniy@gmail.com  
 Discord: evgeniyzi_14947  
 
 ## About Me
-I am 40 years old. For the last 17 years, I have worked at a design institute as a civil engineer.
+I am 40 years old. For the last 17 years, I have worked as a design engineer in [the construction department of the Scientific Research and Design Republican Unitary Enterprise Belenergosetproject](https://www.besp.by/index.php/en/)
 
 ## Skils
+Currently studying:
+* HTML
+* CSS
+* JavaScript
+* Git
 
 ## Code examples
-
-код с тремя обратными апострафами
 ```
 function multiply(a, b){
   a * b
 }
 ```
-
-____
-
-код с двумя обратными апострафами  
-``
-function multiply(a, b){
-  a * b
-}
-``
-
-____
-
-код с двумя обратными апострафами
-
-``
-function multiply(a, b){
-  a * b
-}
-``
-
-____
-
-код с четырьмя пробелами
-    
-    function multiply(a, b){
-  a * b
-}
-    
-
-
 ## Experience
+* Working with 3D Max (basic level)
+* Proficiency in Photoshop
+* Proficiency in CorelDRAW
+* Advanced skills in Autodesk AutoCAD
+* Strong command of Microsoft Office (Excel, Word, etc.)
+* Experience with home networks
+* Proficiency in trades (bricklaying, woodworking, roofing, finishing)
+* [CV эту ссылку удалить](https://evgeniyzi.github.io/test-git/cv)
+* [CV эту ссылку удалить](https://evgeniyzi.github.io/rsschool-cv/cv)
 
 ## Education
-Vocational secondary education with the qualification of 4th-class bricklayer;  
-Technical education as a construction technician;  
-Incomplete higher education in economics;  
-Higher education as a civil engineer;  
-Higher education as a coach (Department of Martial Arts).  
-During my school years, I completed training and received a certificate as a computer operator.
-## Languages
+* Vocational Technical School - 4th-class bricklayer;
+* Minsk State Energy College - Construction Technician;
+* Polotsk State University - Civil Engineer;
+* Belarusian State University of Physical Culture - Coach. Department of Martial Arts.
 
+## Languages
+* Russian - native speaker;
+* French - basic knowledge, studied in school;
+* English - basic knowledge, currently self-studying.
