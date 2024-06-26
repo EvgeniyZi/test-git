@@ -23,12 +23,12 @@ function multiply(a, b){
 ```
 ## Experience
 * Working with 3D Max (basic level)
-* Proficiency in Photoshop
-* Proficiency in CorelDRAW
-* Advanced skills in Autodesk AutoCAD
-* Strong command of Microsoft Office (Excel, Word, etc.)
-* Experience with home networks
-* Proficiency in trades (bricklaying, woodworking, roofing, finishing)
+* Photoshop (midle level)
+* CorelDRAW (midle level)
+* Autodesk AutoCAD (advanced level)
+* Microsoft Office: Excel, Word, etc. (advanced level)
+* Had experience in arranging and maitaining Home and local networks
+* Have experience in bricklaying, woodworking, roofing, finishing works
 * [CV](https://evgeniyzi.github.io/rsschool-cv/cv)
 
 ## Education
