@@ -1,15 +1,15 @@
-# Евгений Зимагоров
+# Evgeny Zimagorov
 
-## Контакты
-Telegramz: @EvGeniusZi  
+## Contacts
+Telegram: @EvGeniusZi  
 Email: zimagorov.evgeniy@gmail.com  
 Discord: evgeniyzi_14947  
 
 ## About Me
-I am 40 years old. For the last 17 years, I have worked as a design engineer in [the construction department of the Scientific Research and Design Republican Unitary Enterprise Belenergosetproject](https://www.besp.by/index.php/en/)
+I am 40 years old. For the last 17 years, I have worked as a design engineer in the construction department of [the Scientific Research and Design Republican Unitary Enterprise Belenergosetproject](https://www.besp.by/index.php/en/)
 
 ## Skils
-Currently studying:
+_Currently studying:_
 * HTML
 * CSS
 * JavaScript
@@ -29,8 +29,7 @@ function multiply(a, b){
 * Strong command of Microsoft Office (Excel, Word, etc.)
 * Experience with home networks
 * Proficiency in trades (bricklaying, woodworking, roofing, finishing)
-* [CV эту ссылку удалить](https://evgeniyzi.github.io/test-git/cv)
-* [CV эту ссылку удалить](https://evgeniyzi.github.io/rsschool-cv/cv)
+* [CV](https://evgeniyzi.github.io/rsschool-cv/cv)
 
 ## Education
 * Vocational Technical School - 4th-class bricklayer;
